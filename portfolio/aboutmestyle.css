@@ -1,0 +1,145 @@
+.about{
+    display: flex;
+}
+
+.bar{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    background-color: #39302b;
+    height:100vh;
+    width: 20vw;
+    color: white;
+   
+}
+.bar li{
+    margin-bottom: 70px;
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+
+.bar h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    text-shadow: 2px 2px 2px red;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    
+}
+li a:hover{
+    color: red;
+    
+
+}
+
+.maincontainer{
+    height: 431px;
+    width: 80vw;
+    background:url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    padding: 60px;
+    font-size: 40px;
+    padding-top: 250px;
+    color: black(164, 17, 17);
+    
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hardskill{
+    padding-top: 200px;
+    padding-left: 300px;
+    background-color: antiquewhite;
+    width: 80vw;
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.li a{
+    text-decoration: solid;
+
+}
+
+
+.hard{
+    font-size: 45px;
+}
+
+.sentence{
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+/* for mycontact */
+.link{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+    font-size: 30px;
+    padding-top: 20px;
+    
+    
+    
+}
+
+.link a{
+    text-decoration: none;
+}
+
+.maindiv{
+    padding-top: 200px;
+    padding-left: 300px;
+    background-color: antiquewhite;
+    width: 80vw;
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+    
+
+
+
+
+    
+
+.link img{
+    height: 35px;
+    width: 35px;
+    margin-top: 3px;
+    margin-right: 7px;
+}
+
